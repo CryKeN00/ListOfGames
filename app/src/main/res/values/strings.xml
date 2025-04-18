@@ -1,0 +1,4 @@
+<resources>
+        <string name="app_name">Games List</string>
+        <string name="game_image">Game image</string>
+</resources>
